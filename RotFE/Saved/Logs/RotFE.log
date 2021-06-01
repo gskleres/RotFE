@@ -1976,3 +1976,76 @@ Script call stack:
 [2021.06.01-00.11.09:676][506]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/StartMenu_bppc2DC782564914D06526F245BF1ED783B6.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/StartMenu/StartMenu_bppc.uasset'
 [2021.06.01-00.11.09:686][506]AssetCheck: New page: Asset Save: StartMenu_bppc
 [2021.06.01-00.11.09:686][506]LogContentValidation: Display: Validating Blueprint /Game/StartMenu/StartMenu_bppc.StartMenu_bppc
+[2021.06.01-01.06.39:604][638]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-01.06.39:608][638]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.01-01.06.39:610][638]LogPlayLevel: [PlayLevel] Compiling StartMenuUIRoot_bpw before play...
+[2021.06.01-01.06.39:667][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.06.01-01.06.39:668][638]LogPlayLevel: PlayLevel: Blueprint regeneration took 59 ms (1 blueprints)
+[2021.06.01-01.06.39:669][638]PIE: New page: PIE session: StartMenu_level (May 31, 2021, 5:06:39 PM)
+[2021.06.01-01.06.39:669][638]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.01-01.06.39:669][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000584s)
+[2021.06.01-01.06.39:670][638]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.01-01.06.39:670][638]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2021.06.01-01.06.39:670][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.001705s)
+[2021.06.01-01.06.39:700][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.06.01-01.06.39:700][638]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-01.06.39:700][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-01.06.39:700][638]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-01.06.39:700][638]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-01.06.39:703][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-01.06.39:703][638]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-01.06.39:719][638]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-01.06.39:719][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-01.06.39:719][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-01.06.39:719][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-01.06.39:720][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-01.06.39:720][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-01.06.39:720][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-01.06.39:731][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-01.06.39:731][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-01.06.39:731][638]LogInit: FAudioDevice initialized.
+[2021.06.01-01.06.39:731][638]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartMenu_level'.
+[2021.06.01-01.06.39:742][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-01.06.39:742][638]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.01-01.06.39:742][638]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.05.31-21.06.39
+[2021.06.01-01.06.39:743][638]LogWorld: Bringing up level for play took: 0.000443
+[2021.06.01-01.06.39:743][638]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.06.01-01.06.39:744][638]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.01-01.06.39:746][638]PIE: Server logged in
+[2021.06.01-01.06.39:747][638]PIE: Play in editor total start time 0.139 seconds.
+[2021.06.01-01.06.43:753][875]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.01-01.06.43:753][875]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.01-01.06.43:753][875]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.01-01.06.43:754][875]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-01.06.43:754][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-01.06.43:813][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-01.06.43:816][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.01-01.06.43:817][875]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainGame_level'.
+[2021.06.01-01.06.43:817][875]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.01-01.06.43:818][875]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.01-01.06.43:819][875]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.05.31-21.06.43
+[2021.06.01-01.06.43:819][875]LogWorld: Bringing up level for play took: 0.000317
+[2021.06.01-01.06.43:819][875]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.01-01.06.43:820][875]LogLoad: Took 0.066557 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.01-01.06.45:908][  1]LogSlate: Window 'RotFE Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-01.06.45:913][  1]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.01-01.06.45:935][  1]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-01.06.45:935][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-01.06.45:941][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-01.06.45:947][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-01.06.45:979][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-01.06.45:979][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-01.06.45:981][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-01.06.46:027][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.06.01-01.06.46:040][  2]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.06.01-01.07.19:954][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/UI/StartMenuUIRoot_bpw" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/StartMenu/UI/StartMenuUIRoot_bpw.uasset" SILENT=true
+[2021.06.01-01.07.19:964][ 36]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/StartMenuUIRoot_bpwDFFB02EC46B1139585555693957049FF.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/StartMenu/UI/StartMenuUIRoot_bpw.uasset'
+[2021.06.01-01.07.19:976][ 36]AssetCheck: New page: Asset Save: StartMenuUIRoot_bpw
+[2021.06.01-01.07.19:976][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/StartMenu/UI/StartMenuUIRoot_bpw.StartMenuUIRoot_bpw
