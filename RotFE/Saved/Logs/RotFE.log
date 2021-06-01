@@ -1896,3 +1896,83 @@ Script call stack:
 [2021.06.01-00.05.14:455][827]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2021.06.01-00.05.36:673][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2021.06.01-00.05.41:820][467]LogSlate: Window 'Message Log' being destroyed
+[2021.06.01-00.08.52:577][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-00.08.52:581][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-00.08.52:581][ 68]PIE: New page: PIE session: StartMenu_level (May 31, 2021, 4:08:52 PM)
+[2021.06.01-00.08.52:581][ 68]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.01-00.08.52:581][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000518s)
+[2021.06.01-00.08.52:582][ 68]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.01-00.08.52:582][ 68]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2021.06.01-00.08.52:582][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.001418s)
+[2021.06.01-00.08.52:616][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.01-00.08.52:616][ 68]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-00.08.52:616][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-00.08.52:616][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-00.08.52:617][ 68]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-00.08.52:617][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-00.08.52:619][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-00.08.52:619][ 68]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-00.08.52:635][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-00.08.52:648][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-00.08.52:648][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-00.08.52:648][ 68]LogInit: FAudioDevice initialized.
+[2021.06.01-00.08.52:648][ 68]LogAudio: Display: Audio Device (ID: 17) registered with world 'StartMenu_level'.
+[2021.06.01-00.08.52:658][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-00.08.52:659][ 68]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.01-00.08.52:659][ 68]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.05.31-20.08.52
+[2021.06.01-00.08.52:660][ 68]LogWorld: Bringing up level for play took: 0.000286
+[2021.06.01-00.08.52:660][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.06.01-00.08.52:661][ 68]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.01-00.08.52:662][ 68]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.01-00.08.52:662][ 68]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.01-00.08.52:662][ 68]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.06.01-00.08.52:663][ 68]PIE: Server logged in
+[2021.06.01-00.08.52:664][ 68]PIE: Play in editor total start time 0.083 seconds.
+[2021.06.01-00.08.53:743][131]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.01-00.08.53:743][131]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.01-00.08.53:743][131]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.01-00.08.53:743][131]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-00.08.53:743][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-00.08.53:772][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-00.08.53:775][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.01-00.08.53:776][131]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainGame_level'.
+[2021.06.01-00.08.53:777][131]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.01-00.08.53:777][131]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.01-00.08.53:778][131]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.05.31-20.08.53
+[2021.06.01-00.08.53:778][131]LogWorld: Bringing up level for play took: 0.000382
+[2021.06.01-00.08.53:779][131]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.01-00.08.53:779][131]LogLoad: Took 0.035887 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.01-00.08.55:567][239]LogSlate: Window 'RotFE Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.01-00.08.55:571][239]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.01-00.08.55:595][239]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-00.08.55:595][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-00.08.55:601][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-00.08.55:607][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-00.08.55:639][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-00.08.55:640][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-00.08.55:662][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.01-00.08.55:673][240]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.06.01-00.10.44:539][ 12]BlueprintLog: New page: Compile MainGame_bppc
+[2021.06.01-00.10.44:588][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.06.01-00.10.44:969][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGame/MainGame_bppc" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/MainGame_bppc.uasset" SILENT=true
+[2021.06.01-00.10.44:973][ 34]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/MainGame_bppcBCED397043791716DDC16FAC65EBD538.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/MainGame_bppc.uasset'
+[2021.06.01-00.10.44:983][ 34]AssetCheck: New page: Asset Save: MainGame_bppc
+[2021.06.01-00.10.44:983][ 34]LogContentValidation: Display: Validating Blueprint /Game/MainGame/MainGame_bppc.MainGame_bppc
+[2021.06.01-00.11.09:189][481]BlueprintLog: New page: Compile StartMenu_bppc
+[2021.06.01-00.11.09:237][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.06.01-00.11.09:672][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/StartMenu_bppc" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/StartMenu/StartMenu_bppc.uasset" SILENT=true
+[2021.06.01-00.11.09:676][506]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/StartMenu_bppc2DC782564914D06526F245BF1ED783B6.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/StartMenu/StartMenu_bppc.uasset'
+[2021.06.01-00.11.09:686][506]AssetCheck: New page: Asset Save: StartMenu_bppc
+[2021.06.01-00.11.09:686][506]LogContentValidation: Display: Validating Blueprint /Game/StartMenu/StartMenu_bppc.StartMenu_bppc
