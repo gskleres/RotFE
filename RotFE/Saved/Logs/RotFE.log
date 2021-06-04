@@ -1122,3 +1122,277 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.04-04.41.32:397][327]LogSlate: Window 'String_FunctionLibrary' being destroyed
 [2021.06.04-04.41.36:276][554]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainGame/UI/MainGameUIRoot_bpw.MainGameUIRoot_bpw
 [2021.06.04-04.41.37:090][555]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.04-04.42.51:254][189]LogMetaData: Removing '/Game/Blueprints/GameData/Factions/Factions_enum.Factions_enum' ref from Metadata '/Game/GameData/Factions/Factions_enum.PackageMetaData'
+[2021.06.04-04.42.51:260][189]LogMetaData: Removing '/Game/Blueprints/GameData/Factions/FactionDefinition_struct.FactionDefinition_struct' ref from Metadata '/Game/GameData/Factions/FactionDefinition_struct.PackageMetaData'
+[2021.06.04-04.42.51:282][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/Factions_enumDF7E92BB4034E8A0496A5A924BF0F6F5.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/Blueprints/GameData/Factions/Factions_enum.uasset'
+[2021.06.04-04.42.51:285][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/Factions_DataTable3903456942E70AADC3EB0E98D7F44C7F.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/Blueprints/GameData/Factions/Factions_DataTable.uasset'
+[2021.06.04-04.42.51:288][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/FactionDefinition_struct4CF0E19D4529D36DCAA3F784F5960F8F.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/Blueprints/GameData/Factions/FactionDefinition_struct.uasset'
+[2021.06.04-04.42.51:464][189]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2021.06.04-04.42.51:506][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.06.04-04.42.51:542][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.06.04-04.42.51:590][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.06.04-04.42.51:627][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.04-04.42.51:645][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SetupGame/UI/SetupGameRootUI_bpw" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/SetupGame/UI/SetupGameRootUI_bpw.uasset" SILENT=true
+[2021.06.04-04.42.51:667][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/SetupGameRootUI_bpw881EB2274BCF21442FBF22B7484B00B5.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/SetupGame/UI/SetupGameRootUI_bpw.uasset'
+[2021.06.04-04.42.51:669][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGame/UI/MainGameUIRoot_bpw" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/UI/MainGameUIRoot_bpw.uasset" SILENT=true
+[2021.06.04-04.42.51:687][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/MainGameUIRoot_bpw3A2567694FF0BF2CF695748B26A52AB9.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/UI/MainGameUIRoot_bpw.uasset'
+[2021.06.04-04.42.51:688][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Save_FunctionLibrary" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/Save_FunctionLibrary.uasset" SILENT=true
+[2021.06.04-04.42.51:705][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/Save_FunctionLibrary918EDE524DE1FE546C6BDFB4D9C9BE19.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/Save_FunctionLibrary.uasset'
+[2021.06.04-04.42.51:706][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotFE_Save" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/RotFE_Save.uasset" SILENT=true
+[2021.06.04-04.42.51:710][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/RotFE_Save75A96F8E443AF5A1535AFAA42DFE0992.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/RotFE_Save.uasset'
+[2021.06.04-04.42.51:713][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotFE_GameInstance" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/RotFE_GameInstance.uasset" SILENT=true
+[2021.06.04-04.42.51:724][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/RotFE_GameInstance39A69825416E1CCC54A4849D397F9451.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/RotFE_GameInstance.uasset'
+[2021.06.04-04.42.51:726][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGame/MainGame_bpgs" FILE="../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/MainGame_bpgs.uasset" SILENT=true
+[2021.06.04-04.42.51:742][189]LogSavePackage: Moving '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Saved/MainGame_bpgsF800CE5244454C85316EA186C034FB9C.tmp' to '../../../../../../Users/User/Documents/GitHub/RotFE/RotFE/Content/MainGame/MainGame_bpgs.uasset'
+[2021.06.04-04.42.51:809][189]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.04-04.42.51:809][189]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/GameData/Factions/Factions_enum.Factions_enum
+[2021.06.04-04.42.51:809][189]LogContentValidation: Display: Validating Blueprint /Game/RotFE_Save.RotFE_Save
+[2021.06.04-04.42.51:810][189]LogContentValidation: Display: Validating Blueprint /Game/MainGame/MainGame_bpgs.MainGame_bpgs
+[2021.06.04-04.42.51:810][189]LogContentValidation: Display: Validating Blueprint /Game/Save_FunctionLibrary.Save_FunctionLibrary
+[2021.06.04-04.42.51:810][189]LogContentValidation: Display: Validating Blueprint /Game/RotFE_GameInstance.RotFE_GameInstance
+[2021.06.04-04.42.51:810][189]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainGame/UI/MainGameUIRoot_bpw.MainGameUIRoot_bpw
+[2021.06.04-04.42.51:811][189]LogContentValidation: Display: Validating WidgetBlueprint /Game/SetupGame/UI/SetupGameRootUI_bpw.SetupGameRootUI_bpw
+[2021.06.04-04.42.51:811][189]LogContentValidation: Display: Validating DataTable /Game/Blueprints/GameData/Factions/Factions_DataTable.Factions_DataTable
+[2021.06.04-04.42.51:811][189]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/GameData/Factions/FactionDefinition_struct.FactionDefinition_struct
+[2021.06.04-04.42.58:877][607]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.04-04.42.58:885][607]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.04-04.42.58:889][607]LogPlayLevel: [PlayLevel] Compiling RotFE_Save before play...
+[2021.06.04-04.42.58:901][607]LogPlayLevel: [PlayLevel] Compiling MainGame_bpgs before play...
+[2021.06.04-04.42.58:917][607]LogPlayLevel: [PlayLevel] Compiling Save_FunctionLibrary before play...
+[2021.06.04-04.42.58:924][607]LogPlayLevel: [PlayLevel] Compiling RotFE_GameInstance before play...
+[2021.06.04-04.42.58:934][607]LogPlayLevel: [PlayLevel] Compiling MainGameUIRoot_bpw before play...
+[2021.06.04-04.42.58:966][607]LogPlayLevel: [PlayLevel] Compiling SetupGameRootUI_bpw before play...
+[2021.06.04-04.42.59:039][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.04-04.42.59:040][607]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (6 blueprints)
+[2021.06.04-04.42.59:041][607]PIE: New page: PIE session: StartMenu_level (Jun 3, 2021, 8:42:59 PM)
+[2021.06.04-04.42.59:041][607]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.42.59:042][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000529s)
+[2021.06.04-04.42.59:044][607]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.04-04.42.59:044][607]LogPlayLevel: PIE: World Init took: (0.002869s)
+[2021.06.04-04.42.59:045][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.003626s)
+[2021.06.04-04.42.59:084][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.04-04.42.59:085][607]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.04-04.42.59:085][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.04-04.42.59:085][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.04-04.42.59:085][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.04-04.42.59:089][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.04-04.42.59:089][607]LogAudioMixer: Display: 1: FrontRight
+[2021.06.04-04.42.59:121][607]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.04-04.42.59:121][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.04-04.42.59:121][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.04-04.42.59:121][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.04-04.42.59:122][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.04-04.42.59:122][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.04-04.42.59:122][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.04-04.42.59:144][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.04-04.42.59:144][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.04-04.42.59:144][607]LogInit: FAudioDevice initialized.
+[2021.06.04-04.42.59:144][607]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu_level'.
+[2021.06.04-04.42.59:161][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.04-04.42.59:162][607]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.04-04.42.59:163][607]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.06.04-00.42.59
+[2021.06.04-04.42.59:163][607]LogWorld: Bringing up level for play took: 0.000448
+[2021.06.04-04.42.59:163][607]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.06.04-04.42.59:169][607]PIE: Server logged in
+[2021.06.04-04.42.59:171][607]PIE: Play in editor total start time 0.287 seconds.
+[2021.06.04-04.43.00:827][698]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.00:827][698]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.00:827][698]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.43.00:827][698]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.00:828][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.00:888][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.00:892][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.04-04.43.00:895][698]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainGame_level'.
+[2021.06.04-04.43.00:896][698]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.04-04.43.00:896][698]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.04-04.43.00:899][698]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.06.04-00.43.00
+[2021.06.04-04.43.00:899][698]LogWorld: Bringing up level for play took: 0.001065
+[2021.06.04-04.43.00:900][698]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.00:902][698]LogLoad: Took 0.074826 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.04-04.43.03:889][876]LogNet: Browse: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.43.03:889][876]LogLoad: LoadMap: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.43.03:889][876]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.04-04.43.03:890][876]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.03:890][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.03:927][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.03:931][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.06.04-04.43.03:933][876]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.43.03:934][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000967s)
+[2021.06.04-04.43.03:935][876]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.04-04.43.03:935][876]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.06.04-04.43.03:935][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.002648s)
+[2021.06.04-04.43.03:936][876]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu_level'.
+[2021.06.04-04.43.03:936][876]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.04-04.43.03:938][876]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.06.04-00.43.03
+[2021.06.04-04.43.03:938][876]LogWorld: Bringing up level for play took: 0.000448
+[2021.06.04-04.43.03:939][876]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.03:941][876]LogLoad: Took 0.052166 seconds to LoadMap(/Game/StartMenu/UEDPIE_0_StartMenu_level)
+[2021.06.04-04.43.04:802][927]LogNet: Browse: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.43.04:802][927]LogLoad: LoadMap: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.43.04:802][927]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.43.04:803][927]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.04:803][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.04:842][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.04:846][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.04-04.43.04:848][927]LogAudio: Display: Audio Device (ID: 4) registered with world 'SetupGame_level'.
+[2021.06.04-04.43.04:849][927]LogAIModule: Creating AISystem for world SetupGame_level
+[2021.06.04-04.43.04:849][927]LogLoad: Game class is 'SetupGame_bpgm_C'
+[2021.06.04-04.43.04:853][927]LogWorld: Bringing World /Game/SetupGame/UEDPIE_0_SetupGame_level.SetupGame_level up for play (max tick rate 60) at 2021.06.04-00.43.04
+[2021.06.04-04.43.04:853][927]LogWorld: Bringing up level for play took: 0.001438
+[2021.06.04-04.43.04:853][927]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.04:855][927]LogLoad: Took 0.052590 seconds to LoadMap(/Game/SetupGame/SetupGame_level)
+[2021.06.04-04.43.07:822][104]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.07:822][104]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.07:822][104]LogWorld: BeginTearingDown for /Game/SetupGame/UEDPIE_0_SetupGame_level
+[2021.06.04-04.43.07:823][104]LogWorld: UWorld::CleanupWorld for SetupGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.07:823][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.07:888][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.07:893][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.06.04-04.43.07:896][104]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainGame_level'.
+[2021.06.04-04.43.07:897][104]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.04-04.43.07:897][104]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.04-04.43.07:899][104]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.06.04-00.43.07
+[2021.06.04-04.43.07:899][104]LogWorld: Bringing up level for play took: 0.001333
+[2021.06.04-04.43.07:899][104]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.07:902][104]LogLoad: Took 0.079525 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.04-04.43.12:300][367]LogNet: Browse: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.43.12:300][367]LogLoad: LoadMap: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.43.12:300][367]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.04-04.43.12:301][367]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.12:301][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.12:369][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.12:373][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.04-04.43.12:375][367]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.43.12:376][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000828s)
+[2021.06.04-04.43.12:377][367]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.04-04.43.12:377][367]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2021.06.04-04.43.12:377][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.002318s)
+[2021.06.04-04.43.12:378][367]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu_level'.
+[2021.06.04-04.43.12:378][367]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.04-04.43.12:380][367]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.06.04-00.43.12
+[2021.06.04-04.43.12:380][367]LogWorld: Bringing up level for play took: 0.000454
+[2021.06.04-04.43.12:382][367]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.12:384][367]LogLoad: Took 0.083632 seconds to LoadMap(/Game/StartMenu/UEDPIE_0_StartMenu_level)
+[2021.06.04-04.43.13:195][415]LogNet: Browse: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.43.13:195][415]LogLoad: LoadMap: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.43.13:195][415]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.43.13:195][415]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.13:196][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.13:256][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.13:261][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.06.04-04.43.13:264][415]LogAudio: Display: Audio Device (ID: 4) registered with world 'SetupGame_level'.
+[2021.06.04-04.43.13:264][415]LogAIModule: Creating AISystem for world SetupGame_level
+[2021.06.04-04.43.13:265][415]LogLoad: Game class is 'SetupGame_bpgm_C'
+[2021.06.04-04.43.13:267][415]LogWorld: Bringing World /Game/SetupGame/UEDPIE_0_SetupGame_level.SetupGame_level up for play (max tick rate 60) at 2021.06.04-00.43.13
+[2021.06.04-04.43.13:267][415]LogWorld: Bringing up level for play took: 0.000580
+[2021.06.04-04.43.13:268][415]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.13:269][415]LogLoad: Took 0.074575 seconds to LoadMap(/Game/SetupGame/SetupGame_level)
+[2021.06.04-04.43.15:794][565]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.15:794][565]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.04-04.43.15:794][565]LogWorld: BeginTearingDown for /Game/SetupGame/UEDPIE_0_SetupGame_level
+[2021.06.04-04.43.15:795][565]LogWorld: UWorld::CleanupWorld for SetupGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.43.15:795][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.43.15:867][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.43.15:870][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.04-04.43.15:873][565]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainGame_level'.
+[2021.06.04-04.43.15:873][565]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.04-04.43.15:874][565]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.04-04.43.15:877][565]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.06.04-00.43.15
+[2021.06.04-04.43.15:877][565]LogWorld: Bringing up level for play took: 0.001087
+[2021.06.04-04.43.15:878][565]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.43.15:879][565]LogLoad: Took 0.084344 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.04-04.47.12:312][211]LogNet: Browse: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.47.12:312][211]LogLoad: LoadMap: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.47.12:312][211]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.04-04.47.12:313][211]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.12:313][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.12:357][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.47.12:360][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.04-04.47.12:363][211]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.47.12:364][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000749s)
+[2021.06.04-04.47.12:365][211]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.04-04.47.12:365][211]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2021.06.04-04.47.12:365][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.002074s)
+[2021.06.04-04.47.12:365][211]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu_level'.
+[2021.06.04-04.47.12:366][211]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.04-04.47.12:367][211]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.06.04-00.47.12
+[2021.06.04-04.47.12:368][211]LogWorld: Bringing up level for play took: 0.000438
+[2021.06.04-04.47.12:369][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.47.12:371][211]LogLoad: Took 0.058429 seconds to LoadMap(/Game/StartMenu/UEDPIE_0_StartMenu_level)
+[2021.06.04-04.47.13:533][261]LogNet: Browse: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.47.13:533][261]LogLoad: LoadMap: /Game/SetupGame/SetupGame_level
+[2021.06.04-04.47.13:533][261]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.47.13:534][261]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.13:534][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.13:605][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.47.13:609][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.06.04-04.47.13:611][261]LogAudio: Display: Audio Device (ID: 4) registered with world 'SetupGame_level'.
+[2021.06.04-04.47.13:612][261]LogAIModule: Creating AISystem for world SetupGame_level
+[2021.06.04-04.47.13:612][261]LogLoad: Game class is 'SetupGame_bpgm_C'
+[2021.06.04-04.47.13:615][261]LogWorld: Bringing World /Game/SetupGame/UEDPIE_0_SetupGame_level.SetupGame_level up for play (max tick rate 60) at 2021.06.04-00.47.13
+[2021.06.04-04.47.13:615][261]LogWorld: Bringing up level for play took: 0.000848
+[2021.06.04-04.47.13:616][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.47.13:617][261]LogLoad: Took 0.084342 seconds to LoadMap(/Game/SetupGame/SetupGame_level)
+[2021.06.04-04.47.14:845][313]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.04-04.47.14:845][313]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.04-04.47.14:845][313]LogWorld: BeginTearingDown for /Game/SetupGame/UEDPIE_0_SetupGame_level
+[2021.06.04-04.47.14:846][313]LogWorld: UWorld::CleanupWorld for SetupGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.14:846][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.14:912][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.47.14:915][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.04-04.47.14:917][313]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainGame_level'.
+[2021.06.04-04.47.14:918][313]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.04-04.47.14:918][313]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.04-04.47.14:921][313]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.06.04-00.47.14
+[2021.06.04-04.47.14:921][313]LogWorld: Bringing up level for play took: 0.000874
+[2021.06.04-04.47.14:922][313]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.47.14:923][313]LogLoad: Took 0.078690 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.04-04.47.16:896][398]LogNet: Browse: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.47.16:896][398]LogLoad: LoadMap: /Game/StartMenu/StartMenu_level
+[2021.06.04-04.47.16:896][398]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.04-04.47.16:896][398]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.16:896][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.16:942][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.47.16:945][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.04-04.47.16:946][398]LogPlayLevel: Creating play world package: /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.47.16:946][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000518s)
+[2021.06.04-04.47.16:947][398]LogAIModule: Creating AISystem for world StartMenu_level
+[2021.06.04-04.47.16:947][398]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2021.06.04-04.47.16:947][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenu/StartMenu_level.StartMenu_level to /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level (0.001488s)
+[2021.06.04-04.47.16:948][398]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMenu_level'.
+[2021.06.04-04.47.16:948][398]LogLoad: Game class is 'StartMenu_bpgm_C'
+[2021.06.04-04.47.16:950][398]LogWorld: Bringing World /Game/StartMenu/UEDPIE_0_StartMenu_level.StartMenu_level up for play (max tick rate 60) at 2021.06.04-00.47.16
+[2021.06.04-04.47.16:951][398]LogWorld: Bringing up level for play took: 0.000654
+[2021.06.04-04.47.16:951][398]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.47.16:953][398]LogLoad: Took 0.057466 seconds to LoadMap(/Game/StartMenu/UEDPIE_0_StartMenu_level)
+[2021.06.04-04.47.17:650][428]LogNet: Browse: /Game/MainGame/MainGame_level
+[2021.06.04-04.47.17:650][428]LogLoad: LoadMap: /Game/MainGame/MainGame_level
+[2021.06.04-04.47.17:650][428]LogWorld: BeginTearingDown for /Game/StartMenu/UEDPIE_0_StartMenu_level
+[2021.06.04-04.47.17:650][428]LogWorld: UWorld::CleanupWorld for StartMenu_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.17:650][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.17:694][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.04-04.47.17:698][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.04-04.47.17:701][428]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainGame_level'.
+[2021.06.04-04.47.17:701][428]LogAIModule: Creating AISystem for world MainGame_level
+[2021.06.04-04.47.17:702][428]LogLoad: Game class is 'MainGame_bpgm_C'
+[2021.06.04-04.47.17:704][428]LogWorld: Bringing World /Game/MainGame/UEDPIE_0_MainGame_level.MainGame_level up for play (max tick rate 60) at 2021.06.04-00.47.17
+[2021.06.04-04.47.17:705][428]LogWorld: Bringing up level for play took: 0.000882
+[2021.06.04-04.47.17:705][428]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.04-04.47.17:707][428]LogLoad: Took 0.056475 seconds to LoadMap(/Game/MainGame/MainGame_level)
+[2021.06.04-04.47.19:214][492]LogSlate: Window 'RotFE Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.04-04.47.19:232][492]LogWorld: BeginTearingDown for /Game/MainGame/UEDPIE_0_MainGame_level
+[2021.06.04-04.47.19:232][492]LogWorld: UWorld::CleanupWorld for MainGame_level, bSessionEnded=true, bCleanupResources=true
+[2021.06.04-04.47.19:232][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.19:246][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.04-04.47.19:255][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.04-04.47.19:305][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-04.47.19:307][492]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.04-04.47.19:364][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.06.04-04.47.19:392][493]LogPlayLevel: Display: Destroying online subsystem :Context_7
