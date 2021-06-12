@@ -1,0 +1,9 @@
+
+*.log
+Autosaves/
+Intermediate/
+Saved/
+RotFE/Saved/Config/Windows/Engine.ini
+RotFE/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+RotFE/Saved/AutoScreenshot.png
+RotFE/Saved/Config/Windows/EditorPerProjectUserSettings.ini
