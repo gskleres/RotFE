@@ -1,6 +1,7 @@
 
 *.log
 Autosaves/
+Binaries/
 Intermediate/
 Saved/
 RotFE/Saved/Config/Windows/Engine.ini
